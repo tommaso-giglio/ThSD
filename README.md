@@ -1,5 +1,11 @@
 # Thekla Software Distribution
 
+## Thekla Common
+
+[YET TO DECIDE: Shared or Common as name? "Jokes" aside, yet to experiment with this infrastructure, altho the old Makefiles fully support it elegantly] <br />
+
+Shared libs
+
 ## Thekla Loader
 
 The bootloader
@@ -13,6 +19,8 @@ The microkernel
 The kernel modules
 
 ## Thekla Daemon
+
+[YET TO DECIDE: Daemons and Modules as one thing... ... ... arghhh] <br />
 
 The drivers and daemons
 
@@ -29,16 +37,16 @@ Creation of MBR/GPT tables
 Creation of partitions
 
 Supports:
-ThFS
-NTFS
-APFS
-FAT32
-ExFAT
+ThFS <br />
+NTFS <br />
+APFS <br />
+FAT32 <br />
+ExFAT <br />
 
 convert:
 conversion between Executable Formats
 
 Supports:
-ThPF
-ELF64
-PE32+
+ThPF <br />
+ELF64 <br />
+PE32+ <br />
