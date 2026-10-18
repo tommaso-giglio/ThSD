@@ -22,4 +22,23 @@ The userspace programs
 
 ## Thekla Extras
 
-The build utilities
+The build utilities:
+
+fsutil:
+Creation of MBR/GPT tables
+Creation of partitions
+
+Supports:
+ThFS
+NTFS
+APFS
+FAT32
+ExFAT
+
+convert:
+conversion between Executable Formats
+
+Supports:
+ThPF
+ELF64
+PE32+
